@@ -9,7 +9,7 @@ Page({
     // envShareConfig: {
     //   // 不使用环境共享，请删除此配置或配置EnvShareConfig:null
     //   // 资源方 AppID
-    //   resourceAppid: "wx7ac1bfecc7bf5f4f",
+    //   resourceAppid: "",
     //   // 资源方环境 ID
     //   resourceEnv: "chriscc-demo-7ghlpjf846d46d2d",
     // },
